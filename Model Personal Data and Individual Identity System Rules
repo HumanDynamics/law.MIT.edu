@@ -1,6 +1,7 @@
 Version 1.06 Model System Rules
 
 Legal Notices
+
 Intellectual Property: Massachusetts Institute of Technology, © 2013. Massachusetts Institute of Technology licenses distribution and re-use of this material under Creative Commons Attribution-ShareAlike 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US, provided the text of legal notices including attributions, disclaimers and document information are unchanged and conspicuously displayed on each copy or derivative works.
 
 "MIT", "Massachusetts Institute of Technology", and its logos and seal are trademarks of the Massachusetts Institute of Technology. Except for purposes of attribution as required by our Creative Commons License, you may not use MIT’s names or logos, or any variations thereof, without prior written consent of MIT. You may not use the MIT name in any of its forms nor MIT seals or logos for promotional purposes, or in any way that deliberately or inadvertently claims, suggests, or in MIT's sole judgment gives the appearance or impression of a relationship with or endorsement by MIT.
@@ -10,6 +11,7 @@ Attributions and Disclaimer: This work is based upon work supported by the Defen
 Document Information: Version 1.06; June 20, 2013; Comments to: daz@media.mit.edu; Authoritative stable release version of the System Rules is published at the MIT Human Dynamics Lab openPDS project site: http://openpds.media.mit.edu/#rules; The System Rules project background and news site: http://ecitizen.mit.edu/modelrules; The current exploratory drafts and alternative provisions under consideration in the MIT Human Dynamics Lab GitHub Repository: https://github.com/HumanDynamics/SystemRules
 
 Preface
+
 This document provides Trust Framework System Rules for the provision of Personal Data and Individual Identity services. The architecture and model followed by these System Rules enables interoperability at the business, legal and technical dimensions, and ensures that each of those dimensions is expressly aligned, harmonized, and integrated.
 
 Specifically, these System Rules anticipate and are tailored to support a prospective production grade roll out of openPDS and Funf software for Reality Analysis, and more generally, as an example of how System Rules following this model can enable and accelerate achieving the broader goal of a Personal Data Ecology. Please note that for purposes of presenting a complete and coherent reference example, “placeholders” and “hooks ” have been used for names of parties or business services. For future commercial or production grade use of these Rules, implementers would replace the example parties, service descriptions, etc., with the respective names and applicable terms specific to the business roles and relationships agreed among the parties.

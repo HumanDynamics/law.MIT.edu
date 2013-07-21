@@ -1,0 +1,13 @@
+
+This demo of MIT Human Dynamics Lab is designed to demonstrate how individual identification change with the emergence of big data and large scale use of networked personal computing systems. 
+
+To conduct this demo, a FUNF client, developed by the MIT Human Dynamics Lab, is installed onto a users Android phone.  The demo is to be conducted during and for the benefit of the IDESG Plenary session scheduled for July 24 - July 26, 2013.  
+
+This FUNF client runs as an app in the background until it is disabled or uninstalled.  The FUNF client collect the MAC addresses of WiFi Access Points that this phone detects.  Once collected, the WiFi Access Point address data is transmitted to openPDS server hosted by MIT Human Dynamics Lab.  The raw data is not shared with other parties.  This data will be deleted in a timely fashion once the demo is concluded.  
+
+Fore information, see: 
+MIT Human Dynamics Group: http://hd.media.mit.edu
+FUNF: http://funf.org
+openPDS: http://openpds.media.mit.edu
+IDESG Plenary: http://www.idecosystem.org/page/5th-plenary-meeting-agenda 
+This Notice: 

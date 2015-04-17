@@ -21,9 +21,15 @@ Specifically, these System Rules anticipate and are tailored to support a prospe
 
 ## 1.1 Scope and Purpose
 
-These System Rules apply to the use of the Personal Data and Individual Identity System by Individual Users, Third Party Service Providers and the System Provider, individually and in any combination. These Rules are intended and shall be interpreted to ensure that the access and interoperability enabled for access to and sharing of personal data is at all times subject to privacy protection and fair information practices.
+These System Rules apply to the use of the Personal Data and Individual Identity System by Individual Users, Third Party Service Providers and the System Provider, individually and in any combination. These Rules are intended and shall be interpreted to ensure that the access and interoperability enabled for access to and sharing of personal data is at all times subject to privacy protection and fair information practices. Further, these System Rules govern The Municipal OIDC Trust Framework and the use by all Parties and Roles  of OpenID 2.0 and OpenID Connect as described in Section 3, collectively called Municipal Identity (Muni-ID). This Trust Framework also applies to all non-Muni-ID users who connect to Muni-ID systems using the Muni-ID External Identity Federation.
 
-The purpose of the System is to enable a means for individual human beings to simply, efficiently, securely and effectively exercise their rights to store and keep private their own personal data and to share access to such data by their express consent and authorization through System Services. The System is specifically intended to empower individual users to not only grant or not grant such authorizations, but also to monitor, manage and modify or revoke such access over time. The simple, efficient, secure and effective Personal Data Services are also intended to enable Third Party Service Providers to provide added value to individual Participants and derive value from access to permission-based data access in an expanded marketplace. Leveraging the capability of API’s for Third Party apps under a common rule set and services enhances the value of the system to all parties while ensuring privacy.
+[Commentary: The MITRE scope and the original PDS language are joined here. Possibly consider having both of those services expressed in the rules because of the consensus that the PDS is the final realization of both an integrated Trust Federation and the best way to provide notice and choice of data use.]
+
+The primary purpose of the System is to enable a means for individual human beings to simply, efficiently, securely and effectively exercise their rights to store and keep private their own personal data and to share access to such data by their express consent and authorization through System Services. The System is specifically intended to empower individual users to not only grant or not grant such authorizations, but also to monitor, manage and modify or revoke such access over time. The simple, efficient, secure and effective Personal Data Services are also intended to enable Third Party Service Providers to provide added value to individual Participants and derive value from access to permission-based data access in an expanded marketplace. Leveraging the capability of API’s for Third Party apps under a common rule set and services enhances the value of the system to all parties while ensuring privacy.
+
+The ancillary purpose of the System is to unify government and citizen interface into one portal. This will allow many government institutions to completely delegate citizen interaction to the System and thus relieve themselves of the burden of housing personally identifiable data, such as usernames and passwords. Further, the government institutions, jurisdictions, and political subdivisions can more efficiently, securely, and effectively implement and iterate digital services because the System provides universal standards and expectations. 
+
+[Commentary: The above paragraph is an attempt to describe the purpose for the Municipalities or Government Entities that participate within the System. Obviously, there will need to more iterations later.]
 
 The issuance of individual identity credentials and related System Services is likewise intended to empower individual Participant rights and expectations of autonomy and control of their own digital identity. The information comprising the digital identifiers, attributes, tokens and other similar identity data is also considered personal data of a particularly sensitive and valuable nature, hence a compatible and beneficial set of Services to be included within this System and subject to these Rules .
 
@@ -35,17 +41,17 @@ These System Rules are applied by and to the Parties registered as current Parti
 
 ### 1.2.1 Individual Participant
 
-An individual human being who has contractually assented to Terms of Agreement and is a customer holding a valid account with the Personal Data Store. An Individual Participant may use his or her account to request, accept and use a Grant of Authorization to access the Personal Data of another Principal Participant user.
+An individual human being who has contractually assented to Terms of Agreement and is a citizen holding a valid account with the Personal Data Store. An Individual Participant may use his or her account to request, accept and use a Grant of Authorization to access the Personal Data of another Principal Participant user.
 
-Any individual human who contractually assents to the Terms of Agreement is eligible to apply for and hold an Account on the System. Services or other premium functions offered on a subscription, one-time fee or other billing basis are available subject to fulfillment of applicable payment terms as agreed by the Individual User.
+Any individual human who contractually assents to the Terms of Agreement is eligible to apply for and hold an Account on the System. Services or other premium functions offered for free or other billing basis are available subject to fulfillment of applicable payment terms as agreed by the Individual User.
 
 ### 1.2.2 Principal Participant
 
-An individual human who has contractually assented to Terms of Agreement and is a customer holding a valid account with the Personal Data Store offered by the System Provider under these Rules. A Principal Participant may use his or her account to store his or her own Personal Data on the System and to Grant Authorization for accessing that Personal Data to Third Party Service Providers and/or to individual Participants.
+An individual human who has contractually assented to Terms of Agreement and is a citizen holding a valid account with the Personal Data Store offered by the System Provider under these Rules. A Principal Participant may use his or her account to store his or her own Personal Data on the System and to Grant Authorization for accessing that Personal Data to Third Party Service Providers and/or to individual Participants.
 
 ### 1.2.3 System Provider
 
-The Party or Parties responsible for the Personal Data System, comprised of the Personal Data Store and Services. The System Provider promulgates these System Rules.
+The Municipality, Government Subdivision, Jurisdiction, or Licensed Private Third Party responsible for the Personal Data System, comprised of the Personal Data Store and Services. The System Provider promulgates these System Rules.
 
 ### 1.2.4 Third Party Service Providers
 
@@ -94,6 +100,8 @@ The content comprising the “System Rules” duly promulgated by the System Pro
 In the event of a conflict between the provisions of these Rules and the provisions of the Terms of Agreement between any Parties to these Rules, then the provisions of these Rules shall prevail.
 
 In the event of a conflict between the terms of these Rules and an Independent Commercial Contract between any Parties to these Rules, then, as between a Principal Participant and a Third Party Service Provider, the provisions of the applicable Terms of Authorization incorporated by reference into the Parties Terms of Agreement shall prevail, and otherwise the provision of the Independent Commercial Contract shall prevail.
+
+In the event of a conflict between the terms of these Rules and the applicable Jurisdiction’s Law, then the Jurisdiction’s Law shall prevail.
 
 ## 2.2 Rights and Obligations of Participants
 

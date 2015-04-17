@@ -1,4 +1,4 @@
-Version 1.06c 
+﻿Version 1.06c 
 # Model System Rules
 
 ## Dev Note: This version of the Model System Rules is intended for adaptation by UMKC Law School and Code for America Project in ABA-MIT Online Legal Appathon to model how Cities could provide role of IdP for indiviual account holders in a scalable Trust Network.  MIT is pleased to collaborate with and support this team and project.
@@ -27,7 +27,7 @@ These System Rules apply to the use of the Personal Data and Individual Identity
 
 The purpose of the System is to enable a means for individual human beings to simply, efficiently, securely and effectively exercise their rights to store and keep private their own personal data and to share access to such data by their express consent and authorization through System Services. The System is specifically intended to empower individual users to not only grant or not grant such authorizations, but also to monitor, manage and modify or revoke such access over time. The simple, efficient, secure and effective Personal Data Services are also intended to enable Third Party Service Providers to provide added value to individual Participants and derive value from access to permission-based data access in an expanded marketplace. Leveraging the capability of API’s for Third Party apps under a common rule set and services enhances the value of the system to all parties while ensuring privacy.
 
-The issuance of individual identity credentials and related System Services is likewise intended to empower individual Participant rights and expectations of autonomy and control of their own digital identity. The information comprising the digital identifiers, attributes, tokens and other similar identity data is also considered personal data of a particularly sensitive and valuable nature, hence a compatible and beneficial set of Services to be included within this System and subject to these Rules .
+In order to empower individual Participants' rights and to help satisfy their expectations of autonomy and control of their digital identities, the system relies on the issuance of individual identity credentials and related System Services. The information comprising these identity credentials--digital identifiers, attributes, tokens and other similar identity data--is also considered personal data of a particularly sensitive and valuable nature; therefore, a compatible and beneficial set of Services to be included within this System and subject to these Rules must be implemented to safeguard this data.
 
 The focus of these Rules is to standardize essential interface and interoperability implementation requirements necessary to ensure expected outcomes by all Parties while encouraging wide latitude for individually agreed interactions and competitively evolving innovation. These System Rules are intended to provide a reliable and efficient method of achieving the purpose of the System.
 

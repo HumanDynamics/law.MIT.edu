@@ -134,11 +134,11 @@ The following Services are approved and provisioned for use by or with the Syste
 
 #### 1.3.2.3 "Personal Data Sharing Control" services,
 
-#### 1.3.2.4 “ Analytics and Visualization" services, and
+#### 1.3.2.4 “ Analytics and Visualization" services, 
 
-#### 1.3.2.5 “Personal Data Export” Services
+#### 1.3.2.5 “Personal Data Export” Services, and
 
-#### 1.3.2.6 Personal Data Deletion” services.
+#### 1.3.2.6  “Personal Data Deletion” services.
 
 ## 1.4 Recording and Reporting
 

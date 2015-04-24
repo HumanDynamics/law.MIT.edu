@@ -343,11 +343,14 @@ These are simply a starting point for claims. A major reason for using Municipal
 [Commentary: For the use case of the Employee Liquor Permit Application Use case thee following are sample claims that ONLY a Muni-ID and its trust federation populate with other government entities could provide; 
 
 Resident of Kansas City
+
 1. Locale, See attached OICD Standard Physical Address
+
 2. Birthdate
     a. Data: Birthdate
     b. Type: String
     c. Description:End-User's birthday, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
+
 3. Employment Eligibility
         a. Data: Employment Eligibility
         b. Type: String
@@ -355,7 +358,8 @@ Resident of Kansas City
         d. Data: Employment Eligibility Verification
         e. Type: Boolean
         f. Description: True if the End-User's employment eligibility has been verified; otherwise false. When this Claim Value is true, this means that the OP took affirmative steps to ensure that the End-User had documentation at the time the verification was performed. The means by which a employment eligibility is verified is context-specific, and dependent upon the trust framework or contractual agreements within which the parties are operating. 
-4) Aged 18- 20 years
+
+4. Aged 18- 20 years
         a. Data: Birthdate Verification
         b. Type: Boolean
         c. Description: True if End-User has aged 18 years, but less than 20 years, otherwise false. This means the OP has taken affirmative steps to verify against another URI that the End-User has aged between 18-20 years. 

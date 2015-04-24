@@ -347,74 +347,79 @@ Resident of Kansas City
 1. Locale, See attached OICD Standard Physical Address
 
 2. Birthdate
-  a. Data: Birthdate
-  b. Type: String
-  c. Description:End-User's birthday, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
+  1. Data: Birthdate
+  2. Type: String
+  3. Description:End-User's birthday, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
 
 3. Employment Eligibility
-        a. Data: Employment Eligibility
-        b. Type: String
-        c. Description: Document and identifying numbers from the document proving eligibility to work in the US. Could be the following documents Social Security Card without employment restriction, U.S. Passport or Passport Card, Permanent Resident Card (i.e., Green Card), Foreign Passport with I-551 stamp MRIV, Employment Authorization Card, Form I-20 accompanied by Form I-94 or Form I-94A, Form DS-2019 accompanied by Form I-94 or Form I-94A, or Form I-94 or Form I-94A Arrival/Departure Record.
-        d. Data: Employment Eligibility Verification
-        e. Type: Boolean
-        f. Description: True if the End-User's employment eligibility has been verified; otherwise false. When this Claim Value is true, this means that the OP took affirmative steps to ensure that the End-User had documentation at the time the verification was performed. The means by which a employment eligibility is verified is context-specific, and dependent upon the trust framework or contractual agreements within which the parties are operating. 
+  1. Data: Employment Eligibility
+  2. Type: String
+  3. Description: Document and identifying numbers from the document proving eligibility to work in the US. Could be the following documents Social Security Card without employment restriction, U.S. Passport or Passport Card, Permanent Resident Card (i.e., Green Card), Foreign Passport with I-551 stamp MRIV, Employment Authorization Card, Form I-20 accompanied by Form I-94 or Form I-94A, Form DS-2019 accompanied by Form I-94 or Form I-94A, or Form I-94 or Form I-94A Arrival/Departure Record.
+  4. Data: Employment Eligibility Verification
+  5. Type: Boolean
+  6. Description: True if the End-User's employment eligibility has been verified; otherwise false. When this Claim Value is true, this means that the OP took affirmative steps to ensure that the End-User had documentation at the time the verification was performed. The means by which a employment eligibility is verified is context-specific, and dependent upon the trust framework or contractual agreements within which the parties are operating. 
 
 4. Aged 18- 20 years
-        a. Data: Birthdate Verification
-        b. Type: Boolean
-        c. Description: True if End-User has aged 18 years, but less than 20 years, otherwise false. This means the OP has taken affirmative steps to verify against another URI that the End-User has aged between 18-20 years. 
-5) Aged 21 years
-        a. Data: Birthdate Verification
-        b. Type: Boolean
-        c. Description: True if the End-User has aged 21+ years, otherwise False. This means the OP has taken affirmative steps to verify against another URI that the End-User has aged 21 years.
-6) Dangerous Offender (need more guidance from the City on what that means)
-        a. Should replicate Felony Claims below
-7) Categorical Bar Felony (there are several felonies that trigger a categorical bar from ever receiving the permit, there would need to be a separate claim for each one: murder, voluntary manslaughter, forcible rape, forcible sodomy, kidnapping, false imprisonment, first degree child molestation, second degree child molestation, sexual abuse or an attempt to commit any of the preceding crimes)
-        a. Data: Felony
-        b. Type: Boolean
-        c. Description:  False if End-User’s felon status has been verified as non-felon, True if there End-User’s felon status is verified as felon; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felon status and the OP took affirmative measures to confirm the data. 
-8) Conditional Bar for Crimes Against a Person Felony (This felony is bar only for a certain period of time and only for felonies that are classified as crimes against a person, which would need further clarification)
-        a. Data: Felony Crime Against a Person
-        b. Type: Boolean
-        c. Description:  False if End-User’s felon status has been verified as a non felony crime against a person, True if there End-User’s felon status is verified as felony crime against a person; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felony crime against a person status and the OP took affirmative measures to confirm the data.
-        d. Data: Felony Crime Against a Person Conviction Date
-        e. Type: String
-        f. Description: End-User's conviction date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
-        g. Data: Felony Crime Against a Person Conviction Date Verification
-        h. Type: Boolean
-        i. Description: False if End-User’s felony crime against a person conviction date has been verified as longer than 8 years, True if there End-User’s felony crime against a person conviction date is within 8 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felony crime against a person status and the OP took affirmative measures to confirm that the user was convicted of a felony crime against a person offense listed above, less than 8 years for the date of application.
-        j. Data: Felony Crime Against a Person Release Date
-        k. Type: String
-        l. Description: End-User's release date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
-        m. Felony Crime Against a Person Release Date Verification
-        n. Type: Boolean
-        o. Description: False if End-User’s felony crime against a person release date has been verified as longer than 8 years ago, True if there End-User’s felony crime against a person release date is within 8 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felony crime against a person status and the OP took affirmative measures to confirm that the user was released from prison for one of the above felony crime against a person conviction, less than 8 years ago from the date of application.
-9) Conditional Bar for Drug Related Felonies (Here is the list provided in the application; involving the sale or possession of controlled substances or illegal drugs or narcotics, or intent to distribute controlled substances or illegal drugs or narcotics)
-        a. Data: Drug Related Felony
-        b. Type: Boolean
-        c. Description:  False if End-User’s felon status has been verified as non drug related felony, True if the End-User’s drug related felony status is verified; otherwise False. When this claim is True it means that the End-User provided necessary data to establish drug-related felony status and the OP took affirmative measures to confirm the data.
-        d. Data: Drug Related Felony Conviction Date
-        e. Type: String
-        f. Description: End-User's conviction date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
-        g. Data: Drug Related Felony Conviction Date Verification
-        h. Type: Boolean
-        i. Description: False if End-User’s Drug related drug related felony conviction date has been verified as longer than 4 years from the date of the application, True if there End-User’s drug related felony conviction date is within 4 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish drug related felony status and the OP took affirmative measures to confirm that the user was convicted of a felony offense listed above, less than 4 years from the date of the application.
-        j. Data: Felony Crime Against a Person Release Date
-        k. Type: String
-        l. Description: End-User's release date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
-        m. Felony Crime Against a Person Release Date Verification
-        n. Type: Boolean
-        o. Description: False if End-User’s drug related felony release date has been verified as longer than 4 years from the date of the application, True if there End-User’s drug related felony release date is within 4 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish drug related felony status and the OP took affirmative measures to confirm that the user was released from prison for one of the above drug related felony convictions, less than 4 years from the date of the application.
-10) Permit 
-        a. Data: Permit Number
-        b. Type: String
-        c. Description: The associated number within regulated industries. 
-        d. Data: Permit Status
-        e. Type: String
-        f. Description: 
-        g. Data: Permit Status
-        h. Type: Boolean
-        i. Description: True if status of the permit is current, false if the status of the permit is revoked. The means by which a permit status is verified is context-specific, and dependent upon the trust framework or contractual agreements within which the parties are operating.
+  1. Data: Birthdate Verification
+  2. Type: Boolean
+  3. Description: True if End-User has aged 18 years, but less than 20 years, otherwise false. This means the OP has taken affirmative steps to verify against another URI that the End-User has aged between 18-20 years. 
+
+5. Aged 21 years
+  1. Data: Birthdate Verification
+  2. Type: Boolean
+  3. Description: True if the End-User has aged 21+ years, otherwise False. This means the OP has taken affirmative steps to verify against another URI that the End-User has aged 21 years.
+
+6. Dangerous Offender (need more guidance from the City on what that means)
+  1. Should replicate Felony Claims below
+7. Categorical Bar Felony (there are several felonies that trigger a categorical bar from ever receiving the permit, there would need to be a separate claim for each one: murder, voluntary manslaughter, forcible rape, forcible sodomy, kidnapping, false imprisonment, first degree child molestation, second degree child molestation, sexual abuse or an attempt to commit any of the preceding crimes)
+  1. Data: Felony
+  2. Type: Boolean
+  3. Description:  False if End-User’s felon status has been verified as non-felon, True if there End-User’s felon status is verified as felon; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felon status and the OP took affirmative measures to confirm the data. 
+
+8. Conditional Bar for Crimes Against a Person Felony (This felony is bar only for a certain period of time and only for felonies that are classified as crimes against a person, which would need further clarification)
+  1. Data: Felony Crime Against a Person
+  2. Type: Boolean
+  3. Description:  False if End-User’s felon status has been verified as a non felony crime against a person, True if there End-User’s felon status is verified as felony crime against a person; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felony crime against a person status and the OP took affirmative measures to confirm the data.
+  4. Data: Felony Crime Against a Person Conviction Date
+  5. Type: String
+  6. Description: End-User's conviction date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
+  7. Data: Felony Crime Against a Person Conviction Date Verification
+  8. Type: Boolean
+  9. Description: False if End-User’s felony crime against a person conviction date has been verified as longer than 8 years, True if there End-User’s felony crime against a person conviction date is within 8 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felony crime against a person status and the OP took affirmative measures to confirm that the user was convicted of a felony crime against a person offense listed above, less than 8 years for the date of application.
+  10. Data: Felony Crime Against a Person Release Date
+  11. Type: String
+  12. Description: End-User's release date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
+  13. Felony Crime Against a Person Release Date Verification
+  14. Type: Boolean
+  15. Description: False if End-User’s felony crime against a person release date has been verified as longer than 8 years ago, True if there End-User’s felony crime against a person release date is within 8 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felony crime against a person status and the OP took affirmative measures to confirm that the user was released from prison for one of the above felony crime against a person conviction, less than 8 years ago from the date of application.
+
+9. Conditional Bar for Drug Related Felonies (Here is the list provided in the application; involving the sale or possession of controlled substances or illegal drugs or narcotics, or intent to distribute controlled substances or illegal drugs or narcotics)
+  1. Data: Drug Related Felony
+  2. Type: Boolean
+  3. Description:  False if End-User’s felon status has been verified as non drug related felony, True if the End-User’s drug related felony status is verified; otherwise False. When this claim is True it means that the End-User provided necessary data to establish drug-related felony status and the OP took affirmative measures to confirm the data.
+  4. Data: Drug Related Felony Conviction Date
+  5. Type: String
+  6. Description: End-User's conviction date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
+  7. Data: Drug Related Felony Conviction Date Verification
+  8. Type: Boolean
+  9. Description: False if End-User’s Drug related drug related felony conviction date has been verified as longer than 4 years from the date of the application, True if there End-User’s drug related felony conviction date is within 4 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish drug related felony status and the OP took affirmative measures to confirm that the user was convicted of a felony offense listed above, less than 4 years from the date of the application.
+  10. Data: Felony Crime Against a Person Release Date
+  11. Type: String
+  12. Description: End-User's release date, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
+  13. Felony Crime Against a Person Release Date Verification
+  14. Type: Boolean
+  15. Description: False if End-User’s drug related felony release date has been verified as longer than 4 years from the date of the application, True if there End-User’s drug related felony release date is within 4 years of the date of application; otherwise False. When this claim is True it means that the End-User provided necessary data to establish drug related felony status and the OP took affirmative measures to confirm that the user was released from prison for one of the above drug related felony convictions, less than 4 years from the date of the application.
+
+10. Permit 
+  1. Data: Permit Number
+  2. Type: String
+  3. Description: The associated number within regulated industries. 
+  4. Data: Permit Status
+  5. Type: String
+  6. Description: 
+  7. Data: Permit Status
+  8. Type: Boolean
+  9. Description: True if status of the permit is current, false if the status of the permit is revoked. The means by which a permit status is verified is context-specific, and dependent upon the trust framework or contractual agreements within which the parties are operating.
 
 ### 3.1.5 White, Black and Grey Lists
 

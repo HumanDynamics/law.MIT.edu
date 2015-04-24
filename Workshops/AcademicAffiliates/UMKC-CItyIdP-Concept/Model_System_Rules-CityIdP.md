@@ -343,33 +343,33 @@ These are simply a starting point for claims. A major reason for using Municipal
 [Commentary: For the use case of the Employee Liquor Permit Application Use case thee following are sample claims that ONLY a Muni-ID and its trust federation populate with other government entities could provide; 
 
 Resident of Kansas City
- 1) Locale, See attached OICD Standard Physical Address
- 2) Birthdate
-	a. Data: Birthdate
-        b. Type: String
-        c. Description:End-User's birthday, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
- 3) Employment Eligibility
+1) Locale, See attached OICD Standard Physical Address
+2) Birthdate
+    a. Data: Birthdate
+    b. Type: String
+    c. Description:End-User's birthday, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
+3) Employment Eligibility
         a. Data: Employment Eligibility
         b. Type: String
         c. Description: Document and identifying numbers from the document proving eligibility to work in the US. Could be the following documents Social Security Card without employment restriction, U.S. Passport or Passport Card, Permanent Resident Card (i.e., Green Card), Foreign Passport with I-551 stamp MRIV, Employment Authorization Card, Form I-20 accompanied by Form I-94 or Form I-94A, Form DS-2019 accompanied by Form I-94 or Form I-94A, or Form I-94 or Form I-94A Arrival/Departure Record.
         d. Data: Employment Eligibility Verification
         e. Type: Boolean
         f. Description: True if the End-User's employment eligibility has been verified; otherwise false. When this Claim Value is true, this means that the OP took affirmative steps to ensure that the End-User had documentation at the time the verification was performed. The means by which a employment eligibility is verified is context-specific, and dependent upon the trust framework or contractual agreements within which the parties are operating. 
- 4) Aged 18- 20 years
+4) Aged 18- 20 years
         a. Data: Birthdate Verification
         b. Type: Boolean
         c. Description: True if End-User has aged 18 years, but less than 20 years, otherwise false. This means the OP has taken affirmative steps to verify against another URI that the End-User has aged between 18-20 years. 
- 5) Aged 21 years
+5) Aged 21 years
         a. Data: Birthdate Verification
         b. Type: Boolean
         c. Description: True if the End-User has aged 21+ years, otherwise False. This means the OP has taken affirmative steps to verify against another URI that the End-User has aged 21 years.
- 6) Dangerous Offender (need more guidance from the City on what that means)
+6) Dangerous Offender (need more guidance from the City on what that means)
         a. Should replicate Felony Claims below
- 7) Categorical Bar Felony (there are several felonies that trigger a categorical bar from ever receiving the permit, there would need to be a separate claim for each one: murder, voluntary manslaughter, forcible rape, forcible sodomy, kidnapping, false imprisonment, first degree child molestation, second degree child molestation, sexual abuse or an attempt to commit any of the preceding crimes)
+7) Categorical Bar Felony (there are several felonies that trigger a categorical bar from ever receiving the permit, there would need to be a separate claim for each one: murder, voluntary manslaughter, forcible rape, forcible sodomy, kidnapping, false imprisonment, first degree child molestation, second degree child molestation, sexual abuse or an attempt to commit any of the preceding crimes)
         a. Data: Felony
         b. Type: Boolean
         c. Description:  False if End-User’s felon status has been verified as non-felon, True if there End-User’s felon status is verified as felon; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felon status and the OP took affirmative measures to confirm the data. 
- 8) Conditional Bar for Crimes Against a Person Felony (This felony is bar only for a certain period of time and only for felonies that are classified as crimes against a person, which would need further clarification)
+8) Conditional Bar for Crimes Against a Person Felony (This felony is bar only for a certain period of time and only for felonies that are classified as crimes against a person, which would need further clarification)
         a. Data: Felony Crime Against a Person
         b. Type: Boolean
         c. Description:  False if End-User’s felon status has been verified as a non felony crime against a person, True if there End-User’s felon status is verified as felony crime against a person; otherwise False. When this claim is True it means that the End-User provided necessary data to establish felony crime against a person status and the OP took affirmative measures to confirm the data.

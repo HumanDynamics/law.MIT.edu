@@ -343,12 +343,12 @@ These are simply a starting point for claims. A major reason for using Municipal
 [Commentary: For the use case of the Employee Liquor Permit Application Use case thee following are sample claims that ONLY a Muni-ID and its trust federation populate with other government entities could provide; 
 
 Resident of Kansas City
-1) Locale, See attached OICD Standard Physical Address
-2) Birthdate
+1. Locale, See attached OICD Standard Physical Address
+2. Birthdate
     a. Data: Birthdate
     b. Type: String
     c. Description:End-User's birthday, represented as an ISO 8601:2004 [ISO8601‑2004] YYYY-MM-DD format. The year MAY be 0000, indicating that it is omitted. To represent only the year, YYYY format is allowed. Note that depending on the underlying platform's date related function, providing just year can result in varying month and day, so the implementers need to take this factor into account to correctly process the dates.
-3) Employment Eligibility
+3. Employment Eligibility
         a. Data: Employment Eligibility
         b. Type: String
         c. Description: Document and identifying numbers from the document proving eligibility to work in the US. Could be the following documents Social Security Card without employment restriction, U.S. Passport or Passport Card, Permanent Resident Card (i.e., Green Card), Foreign Passport with I-551 stamp MRIV, Employment Authorization Card, Form I-20 accompanied by Form I-94 or Form I-94A, Form DS-2019 accompanied by Form I-94 or Form I-94A, or Form I-94 or Form I-94A Arrival/Departure Record.

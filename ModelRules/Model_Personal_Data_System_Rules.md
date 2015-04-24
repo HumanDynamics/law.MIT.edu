@@ -93,6 +93,8 @@ The Data Commission shall select a Certification Assessor who is an independent 
 
 [Commentary: The above provisions are from the MITRE example provided by Dazza Greenwood. The following is from the Commentary section of that model; “MITRE is pursuing Federal Identity, Credential, and Access Management (FICAM) accepted certification at this time for its OpenID 2.0 service for the purpose of gaining more information about this process and evaluating how best to adopt or adapt this process for use in its internal determination of which external parties to federate with and specifically which parties to add to White Lists.” That might be something a Municipality might wish to also pursue.]
 
+[Commentary: Until now all sources of agreements have determined certification of parties, either white, grey, black, or rainbow, based on the characteristics of the party. We believe that is half of the analysis. First the characteristic of the party must be ascertained then the characteristic of the imminent transaction must be determined. A party might be white listed as a matter of policy, but that status might change depending on the data sought.]
+
 ### 1.2.12 White, Black and Grey Lists
 
 #### 1.2.12.1 Grey List
@@ -134,7 +136,9 @@ The following Services are approved and provisioned for use by or with the Syste
 
 #### 1.3.2.4 “ Analytics and Visualization" services, and
 
-#### 1.3.2.5 “Personal Data Export and Deletion” services.
+#### 1.3.2.5 “Personal Data Export” services
+
+#### 1.3.2.6 “Personal Data Deletion” services.
 
 ## 1.4 Recording and Reporting
 

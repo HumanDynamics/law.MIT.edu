@@ -6,7 +6,7 @@
 
 
 # I. Modernizing Law to Maintain the Social Compact
-
+[also available in [table form](https://github.com/HumanDynamics/law.MIT.edu/blob/master/Purpose/OrganizingQuestion.md)]
 
 ## 1. Life:
 

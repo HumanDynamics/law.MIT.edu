@@ -1,7 +1,7 @@
 Engagement and Feedback Plan for OpenNotice Project
 ===================================================
 
-**Step**	**Objective**
+**Step**    **Objective**  
 1	      Identify stakeholders, including experts and potential funders  
 2	      Survey Legal (“L”) stakeholders to validate and expand thesis  
 3	      Survey Technical (“T”), Business (“B) stakeholders to validate concept  

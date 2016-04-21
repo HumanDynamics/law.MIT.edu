@@ -1,5 +1,16 @@
 **MIT/law Purpose, Goals and Intended Outcomes**
 
+## Daniel "Dazza" Greenwood, JD
+CIVICS.com & Law.MIT.edu
+dazza@CIVICS.com & 617.500.3644
+Scientist, MIT Media Lab
+
+## Prof. Jonathan Askin
+jonathan.askin@brooklaw.edu
+Founder/Director, Brooklyn Law Incubator & Policy Clinic
+Faculty Chair and Innovation Catalyst, Center for Urban Business Entrepreneurship
+
+
 # MIT/law 
 > Modernizing Laws & Legal Systems
 > In the Age of Continuously Connected Computational Systems

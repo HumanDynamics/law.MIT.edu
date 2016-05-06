@@ -1,8 +1,13 @@
 
+# Legal Documentation Automation for Start-ups and Entrepreneurs
 
-THEME 1: LEGAL DOCUMENT AUTOMATION
-Projects 1.1 and 1.2: Legal Documentation Automation for Start-ups and Entrepreneurs
-Project Outline
+* Who: Jonathan Askin, ... 
+* Where: Brooklyn Law School, University of Amsterdam 
+* Blurb: This project will focus on 3D Printing Global Code of Conduct (as emblematic of international collaboration). It will draw upon semantic systems and deep learning for the creation and automation of Global Standards, Principles, MoUs, Codes of Conduct) (e.g., Creative Commons, W3C, GSM MoU, IP MoU, eMagnaCarta, others?)
+The University of Amsterdam and Brooklyn Law School students have been building a global Code of Conduct for Digital Manufacturing (aka, 3D printing) and a crowd-sourced global wiki of the various nation-specific laws governing the emerging industry.
+* Problem Solved: Nefarious Applications and Inconsistent Surrounding 3D Printing Policies  
+* Solution: Global Crowdsourced Wiki and Proposed Uniform Principles 
+* GLTL MIT Event Track: Semantic Systems 
 
 Legal Technology Application Area: Legal document automation
 Project Status: Extended development/prototyping stage
@@ -18,6 +23,3 @@ Further Strategic Partners: Faculty and students from Missouri Western State Uni
 
 Goals for May 5/6 Event
 Obtain feedback on current prototypes on the principal project components, suggestions on the integration of those component, and ideas on using the Start-Up Advisor Tool Kit to not only assist with the efficient delivery of start-up legal services
-
-Outputs and Outcomes of May 5/6 Event
-To be completed post event.

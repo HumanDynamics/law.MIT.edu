@@ -6,12 +6,14 @@ This membership model offers access to a tremendous range of research–to new i
 
 At the moment we have two levels of membership. Our base level membership would be a consortium member, for $250K a year with a three year agreement. This membership would give you access to: all research at the lab, visiting privileges, access to students for recruitment, invitations to Media Lab events and workshops, among many other benefits. Our second level is a consortium research member for $450K a year with a three year agreement. This level essentially provides you all the benefits of a consortium member, with the added benefit of an employee-in-residence at the Lab.
 
-Additional material on membership can be found at  To discuss becoming a Member of the Media Lab, please contact:
+A copy of additional material on membership from 2016 can be found at law.MIT.edu/ProjectsAndMaterials/MediaLabMembership/MLOverview.pdf  
 
-Ryan McCarthy
-MIT Media Lab
-Member Relations
-75 Amherst Street E14-245 Cambridge, MA 02139
+To discuss becoming a Member of the Media Lab, please contact:
 
-Phone: 617-324-3565
+Ryan McCarthy    
+MIT Media Lab    
+Member Relations    
+75 Amherst Street E14-245 Cambridge, MA 02139    
+
+Phone: 617-324-3565     
 Email: ryanmcc@media.mit.edu

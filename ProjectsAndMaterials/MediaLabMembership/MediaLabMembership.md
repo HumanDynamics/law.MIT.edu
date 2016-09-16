@@ -6,7 +6,12 @@ This membership model offers access to a tremendous range of research–to new i
 
 At the moment we have two levels of membership. Our base level membership would be a consortium member, for $250K a year with a three year agreement. This membership would give you access to: all research at the lab, visiting privileges, access to students for recruitment, invitations to Media Lab events and workshops, among many other benefits. Our second level is a consortium research member for $450K a year with a three year agreement. This level essentially provides you all the benefits of a consortium member, with the added benefit of an employee-in-residence at the Lab.
 
+## Learn More
+
 A copy of additional material on membership from 2016 can be found at: https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/ProjectsAndMaterials/MediaLabMembership/MLOverview.pdf
+
+
+## Contact Us
 
 To discuss becoming a Member of the Media Lab, please contact:
 

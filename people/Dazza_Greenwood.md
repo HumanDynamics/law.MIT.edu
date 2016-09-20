@@ -1,6 +1,6 @@
 ## DAZZA GREENWOOD, JD
 <img width="200" alt="dazza-photo" src="https://github.com/BridgingBanks/GeneralSpecificationsDocumentation/blob/gh-pages/Dazza/dazzag_headshot.jpg">
-* [MIT Media Lab](http://media.mit.edu), Visiting Scientist 
+* [MIT Media Lab](http://media.mit.edu), [Visiting Scientist](http://web.mit.edu/bin/cgicso?query=daniel+greenwood)
 * [MIT Human Dynamic Group](hd.media.mit.edu), Research Lead for [law.MIT.edu](http://law.MIT.edu)
 * [MIT Connection Science](connection.mit.edu), Legal Hacker 
 

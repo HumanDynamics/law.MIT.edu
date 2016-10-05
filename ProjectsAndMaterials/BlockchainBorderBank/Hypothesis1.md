@@ -6,7 +6,7 @@
 
 Space
 
-* We believe that we can collect personal data such as habbit/behavioral patterns from Haitian immigrants and refugess living on the Dominican Republic who are members of the COTEDEMI business cooperative and are in need of capital loans. We think we may be able to use this data to predict creditworthiness and loan repayment.
+* We believe personal data will enable 75 more coop members to gain access to credit than otherwise could 
 
 * Alternative criteria: Church attendance, COTEDEMI attendence, residential stability, payment consistency of microfinanced products, utility payment consistency, proving asset ownership,
 

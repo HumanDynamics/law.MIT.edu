@@ -12,16 +12,15 @@ We will know that we have succedded if we see that x% of COTEDEMI members show a
 
 
 
-
-What functionality we will develop to test our hypothesis? By defining a ‘test’ capability of the product or service that we
-are attempting to build, we identify the functionality and hypothesis we want to test.
-
-
 Format 2:
 
 If ____,
 then ____,
 because ____.
+
+If COTEDEMI members show positive/considtent loan repaymet based on critera being tested
+Then criteria can be considered for future loan 
+Because we will have something to base our assumptions on
 
 Format 3:
 
@@ -31,12 +30,20 @@ We will know the hypothesis is valid if by [Date]
 We get [Evidence: quantitative measurable outcomes] or
 We get [Evidence: qualitative observable outcome]
 
+We believe that there is a correlation between routine habits/behavioral patters and creditworthiness / repayment of loans. We will do rapid prototyping to test alternative indicators for creditworthiness. 
+We will be doing rapid prototyping in the Dominican Republic/Haiti border.
+We will know our hypothesis is valid when have gathered x number of participants as part of the testing  
+We will get x measurable outcome 
+and x observable outcome
+
+
 Format 4:
 
 I believe [target market]
 will [do this action / use this solution]
 for [this reason]
 
+I beleive that the target market is willing to provide personal and behavioral data if it may be able to help them get access to loans.
 
 
 -------

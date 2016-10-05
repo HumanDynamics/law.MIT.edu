@@ -38,7 +38,8 @@ Space
 
 Space
 
-* We believe that there is a correlation between routine habits/behavioral patters and creditworthiness / repayment of loans. * We will do rapid prototyping to test alternative indicators for creditworthiness. 
+* We believe that there is a correlation between routine habits/behavioral patters and creditworthiness / repayment of loans. 
+* We will do rapid prototyping to test alternative indicators for creditworthiness. 
 * We will be doing rapid prototyping in the Dominican Republic/Haiti border.
 * We will know our hypothesis is valid when have gathered x number of participants as part of the testing  
 * We will get x measurable outcome and x observable outcome

@@ -1,53 +1,53 @@
-Format 1:
+# Format 1:
 
-*We believe [this capability]  
-*Will result in [this outcome]
-*We will know we have succeeded when [we see a measurable signal]
+* We believe [this capability]  
+* Will result in [this outcome]
+* We will know we have succeeded when [we see a measurable signal]
 
 
-*We believe that we can collect personal data such as habbit/behavioral patterns from Haitian immigrants and refugess living on the Dominican Republic who are members of the COTEDEMI business cooperative and are in need of capital loans. We think we may be able to use this data to predict creditworthiness and loan repayment.
+* We believe that we can collect personal data such as habbit/behavioral patterns from Haitian immigrants and refugess living on the Dominican Republic who are members of the COTEDEMI business cooperative and are in need of capital loans. We think we may be able to use this data to predict creditworthiness and loan repayment.
 
-*Alternative criteria: Church attendance, COTEDEMI attendence, residential stability, payment consistency of microfinanced products, utility payment consistency, proving asset ownership,
+* Alternative criteria: Church attendance, COTEDEMI attendence, residential stability, payment consistency of microfinanced products, utility payment consistency, proving asset ownership,
 
-*Testing with different COTEDEMI members will provide insight into whether or not criteria is reliable for loan distribution. 
+* Testing with different COTEDEMI members will provide insight into whether or not criteria is reliable for loan distribution. 
 We will know that we have succedded if we see that x% of COTEDEMI members show a positive and consisten loan repyament based on this alternative criteria.
 
 
 
-Format 2:
+# Format 2:
 
-*If ____,
-*then ____,
-*because ____.
+* If ____,
+* then ____,
+* because ____.
 
-*If COTEDEMI members show positive/consistent loan repaymet based on critera being tested
+* If COTEDEMI members show positive/consistent loan repaymet based on critera being tested
 
-*Then criteria can be considered for future loan 
+* Then criteria can be considered for future loan 
 
-*Because we will have something to base our assumptions on
+* Because we will have something to base our assumptions on
 
-Format 3:
+# Format 3:
 
-*We believe that [Hypothesis]
-*We will do/make [Test]
-*We will know the hypothesis is valid if by [Date]
-*We get [Evidence: quantitative measurable outcomes] or
-*We get [Evidence: qualitative observable outcome]
+* We believe that [Hypothesis]
+* We will do/make [Test]
+* We will know the hypothesis is valid if by [Date]
+* We get [Evidence: quantitative measurable outcomes] or
+* We get [Evidence: qualitative observable outcome]
 
-*We believe that there is a correlation between routine habits/behavioral patters and creditworthiness / repayment of loans. *We will do rapid prototyping to test alternative indicators for creditworthiness. 
-*We will be doing rapid prototyping in the Dominican Republic/Haiti border.
-*We will know our hypothesis is valid when have gathered x number of participants as part of the testing  
-*We will get x measurable outcome 
+* We believe that there is a correlation between routine habits/behavioral patters and creditworthiness / repayment of loans. * We will do rapid prototyping to test alternative indicators for creditworthiness. 
+* We will be doing rapid prototyping in the Dominican Republic/Haiti border.
+* We will know our hypothesis is valid when have gathered x number of participants as part of the testing  
+* We will get x measurable outcome 
 and x observable outcome
 
 
-Format 4:
+# Format 4:
 
-*I believe [target market]
-*will [do this action / use this solution]
-*for [this reason]
+* I believe [target market]
+* will [do this action / use this solution]
+* for [this reason]
 
-*I beleive that the target market is willing to provide personal and behavioral data if it may be able to help them get access to loans.
+* I beleive that the target market is willing to provide personal and behavioral data if it may be able to help them get access to loans.
 
 
 -------

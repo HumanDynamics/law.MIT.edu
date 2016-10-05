@@ -3,7 +3,8 @@
 * We believe [this capability]  
 * Will result in [this outcome]
 * We will know we have succeeded when [we see a measurable signal]
-----
+
+Space
 
 * We believe that we can collect personal data such as habbit/behavioral patterns from Haitian immigrants and refugess living on the Dominican Republic who are members of the COTEDEMI business cooperative and are in need of capital loans. We think we may be able to use this data to predict creditworthiness and loan repayment.
 
@@ -18,7 +19,9 @@
 * If ____,
 * then ____,
 * because ____.
---------
+
+Space
+
 * If COTEDEMI members show positive/consistent loan repaymet based on critera being tested
 
 * Then criteria can be considered for future loan 
@@ -32,7 +35,9 @@
 * We will know the hypothesis is valid if by [Date]
 * We get [Evidence: quantitative measurable outcomes] or
 * We get [Evidence: qualitative observable outcome]
-----------
+
+Space
+
 * We believe that there is a correlation between routine habits/behavioral patters and creditworthiness / repayment of loans. * We will do rapid prototyping to test alternative indicators for creditworthiness. 
 * We will be doing rapid prototyping in the Dominican Republic/Haiti border.
 * We will know our hypothesis is valid when have gathered x number of participants as part of the testing  
@@ -45,7 +50,9 @@ and x observable outcome
 * I believe [target market]
 * will [do this action / use this solution]
 * for [this reason]
----------
+
+Space
+
 * I beleive that the target market is willing to provide personal and behavioral data if it may be able to help them get access to loans.
 
 

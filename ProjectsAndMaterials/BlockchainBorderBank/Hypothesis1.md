@@ -6,7 +6,9 @@ We will know we have succeeded when [we see a measurable signal]
 
 
 We believe that we can collect personal data such as habbit/behavioral patterns from Haitian immigrants and refugess living on the Dominican Republic who are members of the COTEDEMI business cooperative and are in need of capital loans. We think we may be able to use this data to predict creditworthiness and loan repayment.
+
 Alternative criteria: Church attendance, COTEDEMI attendence, residential stability, payment consistency of microfinanced products, utility payment consistency, proving asset ownership,
+
 Testing with different COTEDEMI members will provide insight into whether or not criteria is reliable for loan distribution. 
 We will know that we have succedded if we see that x% of COTEDEMI members show a positive and consisten loan repyament based on this alternative criteria.
 
@@ -19,7 +21,9 @@ then ____,
 because ____.
 
 If COTEDEMI members show positive/consistent loan repaymet based on critera being tested
+
 Then criteria can be considered for future loan 
+
 Because we will have something to base our assumptions on
 
 Format 3:

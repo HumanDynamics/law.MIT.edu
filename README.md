@@ -5,13 +5,11 @@ See: http://humandynamics.github.io/law.MIT.edu.
 
 **MIT/law Purpose, Goals and Intended Outcomes**
 
-## Daniel "Dazza" Greenwood, JD  
-CIVICS.com & Law.MIT.edu  
-dazza@CIVICS.com & 617.500.3644  
+## Daniel "Dazza" Greenwood
 Scientist, MIT Media Lab  
+Founder, CIVICS.com
 
-## Prof. Jonathan Askin  
-jonathan.askin@brooklaw.edu  
+## Jonathan Askin  
 Founder/Director, Brooklyn Law Incubator & Policy Clinic  
 Faculty Chair and Innovation Catalyst, Center for Urban Business Entrepreneurship  
 

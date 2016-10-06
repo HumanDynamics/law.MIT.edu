@@ -8,10 +8,10 @@ At the moment we have two levels of membership. Our base level membership would 
 
 Additional material on membership can be found at  To discuss becoming a Member of the Media Lab, please contact:
 
-Ryan McCarthy
-MIT Media Lab
-Member Relations
-75 Amherst Street E14-245 Cambridge, MA 02139
+Ryan McCarthy    
+MIT Media Lab    
+Member Relations    
+75 Amherst Street E14-245 Cambridge, MA 02139    
 
-Phone: 617-324-3565
+Phone: 617-324-3565     
 Email: ryanmcc@media.mit.edu

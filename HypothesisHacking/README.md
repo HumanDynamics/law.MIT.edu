@@ -1,5 +1,15 @@
-# Scenarios
+# Hypothesis Format Examples
 
-## Automated Revolving Loan Fund
+##  Format 1:
 
-## The Credit Collective
+* If ____,
+* then ____,
+* because ____.
+
+## Format 2:
+
+* We believe that [Hypothesis]
+* We will do/make [Test]
+* We will know the hypothesis is valid if by [Date]
+* We get [Evidence: quantitative measurable outcomes] or
+* We get [Evidence: qualitative observable outcome]

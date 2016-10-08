@@ -8,6 +8,13 @@ At the moment we have two levels of membership. Our base level membership would 
 
 ## Learn More
 
+<<<<<<< HEAD:ProjectsAndMaterials/MediaLabMembership/MediaLabMembership.md
+Ryan McCarthy    
+MIT Media Lab    
+Member Relations    
+75 Amherst Street E14-245 Cambridge, MA 02139    
+
+=======
 A copy of additional material on membership from 2016 can be found at: https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/ProjectsAndMaterials/MediaLabMembership/MLOverview.pdf
 
 
@@ -20,5 +27,6 @@ MIT Media Lab
 Member Relations    
 75 Amherst Street E14-245 Cambridge, MA 02139    
 
+>>>>>>> origin/gh-pages:ProjectsAndMaterials/MediaLabMembership/README.md
 Phone: 617-324-3565     
 Email: ryanmcc@media.mit.edu

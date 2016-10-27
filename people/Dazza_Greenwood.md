@@ -8,4 +8,4 @@ Dazza Greenwood is an entrepreneur, innovator and national thought on design and
 
 Federally, Dazza has testified before the [US House, US Senate](http://dazzagreenwood.com/Materials/Testimony) and other legislatures and has consulted to NASA as an Online Identity expert, GSA as a multilateral rules drafting expert, Homeland Security as a multistate federated governance expert, the UK Cabinet Office GDS facilitating and authoring identity federation rules and many other public and private sector organizations.
 
-For more information: [http://dazzagreenwood.com/bio.html](http://dazzagreenwood.com/bio.html)
+For more information: [http://dazzagreenwood.com/bio.html](http://dazzagreenwood.com/bio.html) and http://law.mit.edu/dazza](law.MIT.edu/Dazza)

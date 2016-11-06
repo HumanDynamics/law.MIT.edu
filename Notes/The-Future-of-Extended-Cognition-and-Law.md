@@ -1,6 +1,6 @@
 This page was formerly at: The-Future-of-Extended-Cognition-and-Law
 
----
+----
 
 Notes on Shared Interests in Topic:
 
@@ -48,6 +48,6 @@ https://blog.in-part.com/in-part-s-technology-of-the-week-no-3-adaptive-cognitiv
 by: Janet L. Kolodner   
 http://www.aaai.org/ojs/index.php/aimagazine/article/view/34-50 
 
-# - - - - - -
+----
 
 These exploratory discussion notes can now be found at: https://github.com/HumanDynamics/law.MIT.edu/wiki/The-Future-of-Extended-Cognition-and-Law.md

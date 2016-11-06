@@ -1,7 +1,11 @@
 # law.MIT.edu
-MIT Model System Rules Research and Development
 
-See: http://humandynamics.github.io/law.MIT.edu.
+**law.MIT.edu Research and Development**
+
+Main Site: http://law.MIT.edu
+GitHub Pages: http://humandynamics.github.io/law.MIT.edu
+GitHub Wiki: https://github.com/HumanDynamics/law.MIT.edu/wiki
+
 
 **MIT/law Purpose, Goals and Intended Outcomes**
 

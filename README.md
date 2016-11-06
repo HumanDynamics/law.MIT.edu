@@ -1,10 +1,10 @@
 # law.MIT.edu
 
-**law.MIT.edu Research and Development**
+law.MIT.edu Research and Development
 
-Main Site: http://law.MIT.edu
-GitHub Pages: http://humandynamics.github.io/law.MIT.edu
-GitHub Wiki: https://github.com/HumanDynamics/law.MIT.edu/wiki
+* **Main Site: http://law.MIT.edu**
+* GitHub Pages: http://humandynamics.github.io/law.MIT.edu
+* GitHub Wiki: https://github.com/HumanDynamics/law.MIT.edu/wiki
 
 
 **MIT/law Purpose, Goals and Intended Outcomes**

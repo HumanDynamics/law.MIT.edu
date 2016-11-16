@@ -6,7 +6,7 @@
 * 2015-2016
 * 2015 Top Contributor to law.MIT.edu
 
-> Caitlin was the catalyst and lead open source collaborator on the law.MIT.edu Blockchain Border Bank project through mid-November, 2016 and continues as an occassional contributor to law.MIT.edu on the Automated Loan Fund project.
+> Caitlin was the catalyst and lead open source collaborator on the [law.MIT.edu Blockchain Border Bank](http://law.mit.edu/blockchainborderbank) project through mid-November, 2016 and continues as an occassional contributor to law.MIT.edu on the Automated Loan Fund project.
 
 With a deep concern for the human condition, Caitlin traveled to Kenya in 2011 to assist the largest East African coffee trading company explore ways to integrate mobile payments into its practice as a means to ensure payment accountability for women coffee farmers.
 

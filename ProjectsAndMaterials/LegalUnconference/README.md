@@ -1,11 +1,6 @@
 For unconferences associated with legal hackathons, prototype jams and other open, creative events focused on building innovation.
-
-Standard, streamlined Contributor License Agreements for open source projects:
-
-* The GitHub "CLA-Assistat" service: https://github.com/cla-assistant/cla-assistant (by SAP)
-* The CLA-Hub service: https://www.clahub.com (maintained by the Berkman Center at Harvard Law School)
  
-1 - Select a default standard, widely used, relatively non-controversial open source license and creative commons license that will apply to all content created for the event (ie the MIT License or the Apache License).  Permit any person or group to select an alternative Open Source lisense as a well vetted, widely accespted listing of all open source licenses;
+1 - Select a default standard, widely used, relatively non-controversial open source license and creative commons license that will apply to all content created for the event (ie the MIT License or the Apache License).  Permit any person or group to select an alternative OSI-approved Open Source vetted, published listing (here: https://opensource.org/licenses)
 
 If even greater legal certainty is deemed necessary, try using one or more of the following measures:
 2 - Select and provide all participants with a standard, default "Contributor License Agreement" and a web-based tool like the GitHub "CLA-Assistant" service, at: https://github.com/cla-assistant/cla-assistant (by SAP) and/or the CLA-Hub service, here: https://www.clahub.com (maintained by the Berkman Center at Harvard Law School),

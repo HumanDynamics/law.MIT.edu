@@ -8,4 +8,4 @@ On the afternoon of May 30, 2017, law.MIT.edu will convene a creative, online di
 
 * For more information and to request and application to participate in or contribute to one or both events, please contact us at: [http://law.mit.edu/contact](http://law.mit.edu/contact)
 
-* For relevant updates and announcements, watch [law.MIT.edu](http://law.MIT.edu) and this page.  
+* For relevant updates and announcements, watch [law.MIT.edu](http://law.MIT.edu) and [this page](http://humandynamics.github.io/law.MIT.edu/CoreID).  

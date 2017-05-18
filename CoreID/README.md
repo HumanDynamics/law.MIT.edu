@@ -1,7 +1,7 @@
 # Digital Identity: 
 ## Agency, Attribution and Authorization 
 
-On the afternoon of May 30, 2017, law.MIT.edu will convene a creative, online discussion and design oriented event among invited participants involved with initiatives to use blockchain and other emerging technologies for individually controlled digital identity.  On the afternoon of May 18th, law.MIT.edu will convene an online pre-event focused on identifying and prioritizing the main issues, questions, ideas and other topics participants most want to discuss.
+On the afternoon of May 30, 2017, law.MIT.edu will convene a creative, online discussion and design oriented event among invited participants involved with initiatives to use blockchain and other emerging technologies for individually controlled digital identity.  In advance of May 30, law.MIT.edu will convene an online pre-event focused on identifying and prioritizing the main issues, questions, ideas and other topics participants most want to discuss.
 
 
 * For more information on the current plan for online participation and collaboration, see: [ChatAndCollaboration.md](https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/CoreID/ChatAndCollaboration.md)

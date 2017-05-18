@@ -1,6 +1,6 @@
 # Online Collaboration Tool Set
 
-An [online discussion about Digital Identity](https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/CoreID/README.md) will be convened by law.MIT.edu on May 18 and 30, 2017. To enable online participation and collaboration the current plan is to use the following set of tools for both the preliminary and main events:
+An [online discussion about Digital Identity](https://github.com/HumanDynamics/law.MIT.edu/blob/gh-pages/CoreID/README.md) will be convened by law.MIT.edu on May 30, 2017. A preliminary planning conversation will also be convened, which will use the same online participation tools.  To enable online participation and collaboration the current plan is to use the following set of tools for both the preliminary and main events:
 
 1. A conference call using regular phone (landline or mobile);
 2. Screensharing at a standard URL using "join.me" (or potentially Hangout)
